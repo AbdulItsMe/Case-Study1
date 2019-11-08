@@ -1,0 +1,1 @@
+kubeadm join 172.31.50.41:6443 --token dsd1jx.payczq3vkceee3x2     --discovery-token-ca-cert-hash sha256:fbbc0efcdff185602525eff489d1c45922eb68b0d8d9ba5582df09ac9f8460ab
